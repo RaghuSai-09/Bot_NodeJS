@@ -1,17 +1,17 @@
-# Chatbot Project
+#Chatbot Project
 
 
-## Overview
+##Overview
 
 This repository contains the source code and resources for a chatbot project developed using Node.js and the Microsoft Bot Framework. The chatbot is designed to answer predefined questions and provide personalized responses based on natural language understanding (NLP) using Microsoft LUIS (Language Understanding) service. It also supports exporting chat transcripts to an Excel file.
 
-## Features
+##Features
 
 - Predefined questions and answers in a JSON knowledge base.
 - Export chat transcripts to Excel.
 - Integration with the Microsoft Bot Framework Emulator for local testing.
 
-## Getting Started
+##Getting Started
 
 Follow these steps to get the project up and running on your local machine:
 
