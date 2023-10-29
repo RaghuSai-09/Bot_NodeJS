@@ -29,6 +29,6 @@ Follow these steps to get the project up and running on your local machine:
    ```bash
    npm start
 
-4. Open the Microsoft Bot Framework Emulator and connect to your bot by providing the bot's endpoint URL and, if required, the Microsoft App ID and App Password.
+4. Open the Microsoft Bot Framework Emulator and connect to your bot by providing the bot's endpoint URL (usually at http://localhost/3798/api/messages ) and, if required, the Microsoft App ID and App Password.
 5. Interact with the bot through the emulator, test different questions, and use the "Ariya export my chat" command to export chat transcripts to an Excel file.
   
