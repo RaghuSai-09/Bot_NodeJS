@@ -1,0 +1,19 @@
+{
+    "Hello": "Hi there!",
+    "Bye": "Have a Good Day! Bye Bye",
+    "What is your name?": "I'm a chatbot, so I don't have a name.",
+    "What can you do?": "I can answer your questions and provide information.",
+    "How does this work?": "This chatbot matches your questions with predefined answers from a knowledge base.",
+    "Can you help with programming questions?": "Yes, I can help with programming-related questions.",
+    "Tell me a joke.": "Why don't scientists trust atoms? Because they make up everything!",
+    "Where are you located?": "I exist in the digital realm.",
+    "Covid": "Yes, Its a deadly virus.",
+    "Who created you?": "I was created by Team Ariya.",
+    "How are you today?": "I'm just a computer program, so I don't have feelings, but thanks for asking!",
+    "What's the weather like today?": "I'm sorry, I can't provide real-time weather information.",
+    "Tell me about yourself": "I'm a chatbot created to assist with information and answering questions.",
+    "What is your favorite color?": "I like blue.",
+    "What is your favorite food?": "I don't eat, but I like apples.",
+    "What is your favorite movie?": "I like movie, The Matrix.",
+    "Tell me more" : " I am a chatbot created by Team Ariya. I can answer your questions and provide information."
+}
