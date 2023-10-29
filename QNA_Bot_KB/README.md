@@ -18,7 +18,7 @@ Follow these steps to get the project up and running on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/RaghuSai-09/Bot_NodeJS/QNA_Bot_KB.git
+   git clone https://github.com/RaghuSai-09/Bot_NodeJS.git
    cd QNA_Bot_KB
 
 2. Install the dependencies:
