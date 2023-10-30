@@ -42,6 +42,9 @@ class MyBot extends ActivityHandler {
 
             if (userMessage ==='ariya export my chart') {
                 this.exportChatTranscriptToExcel(context);
+                this.conversationHistory = [];
+                await next();
+                return;
             }
 
             await context.sendActivity(response || 'Sorry, I do not understand. Please try again.');
